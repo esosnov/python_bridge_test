@@ -1,0 +1,6 @@
+some word
+:q
+quit
+:qw!
+
+
